@@ -13,6 +13,6 @@ Based on [Patrick exmaple](https://github.com/PatrickAlphaC/smartcontract-upgrad
 - https://github.com/YosephKS/moralis-upgradeable-smart-contracts
 - https://ethereum.stackexchange.com/questions/109323/ownable-in-upgradeable-contracts
 
-##
+## Add new state variable in upgrade
 - [Add new state variable to base contract for upgradeable contracts](https://forum.openzeppelin.com/t/add-new-state-variable-to-base-contract-for-upgradeable-contracts/3502/7)
 - [Add new state variable to base contract using storage gaps](https://forum.openzeppelin.com/t/add-new-state-variable-to-base-contract-using-storage-gaps/5589)
