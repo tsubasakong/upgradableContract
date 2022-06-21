@@ -16,3 +16,7 @@ Based on [Patrick exmaple](https://github.com/PatrickAlphaC/smartcontract-upgrad
 ## Add new state variable in upgrade
 - [Add new state variable to base contract for upgradeable contracts](https://forum.openzeppelin.com/t/add-new-state-variable-to-base-contract-for-upgradeable-contracts/3502/7)
 - [Add new state variable to base contract using storage gaps](https://forum.openzeppelin.com/t/add-new-state-variable-to-base-contract-using-storage-gaps/5589)
+
+## Access control
+- [Initilize the ownership](https://forum.openzeppelin.com/t/ownable-set-to-0-address/6492)
+- [OwnableUpgradeable.sol](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/blob/master/contracts/access/OwnableUpgradeable.sol)
