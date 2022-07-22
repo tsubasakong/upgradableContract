@@ -21,3 +21,8 @@ Based on [Patrick exmaple](https://github.com/PatrickAlphaC/smartcontract-upgrad
 ## Access control
 - [Initilize the ownership](https://forum.openzeppelin.com/t/ownable-set-to-0-address/6492)
 - [OwnableUpgradeable.sol](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/blob/master/contracts/access/OwnableUpgradeable.sol)
+
+## Case studies
+- [Aave经历惊魂一刻，这个漏洞差点酿成一场危机](https://www.panewslab.com/zh/articledetails/D83031688.html)
+- [合约升级模式-以compound为例](https://learnblockchain.cn/article/2618)
+- [剖析DeFi借贷产品之Compound：合约篇](https://learnblockchain.cn/article/2618)
